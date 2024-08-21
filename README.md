@@ -4,6 +4,17 @@
 
 This is a full-featured gym website built using the MERN stack (MongoDB, Express, React, Node.js). It offers user authentication, membership management, booking system, profile management, and an admin dashboard.
 
+## Pics
+<img width="925" alt="Main Page with Dark backgorun" src="https://github.com/user-attachments/assets/cfc9c97c-d257-48c1-be7f-967e3b082e20">
+<img width="911" alt="Main Page wigh light Background" src="https://github.com/user-attachments/assets/36419963-ec92-4e81-a087-e8efd6a9bcf6">
+
+## Video
+
+
+
+https://github.com/user-attachments/assets/ea858a42-c30c-40ad-823b-946e9c62cd09
+
+
 
 ## Technologies Used
 
@@ -47,5 +58,5 @@ REACT_APP_API_URL=http://localhost:5000
 
 npm start
 ###Running the project
-Backend: http://localhost:4000
+Backend: http://localhost:3000
 Frontend: http://localhost:5173
